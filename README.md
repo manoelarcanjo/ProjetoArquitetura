@@ -13,5 +13,5 @@ Este projeto consiste em uma landing page, um desafio da Escola DNC. O objetivo 
 
 # Links
 
-Link da [Landing Page](https://projetoarquitetura-dnc.netlify.app/).
-Link da [Planilia](https://docs.google.com/spreadsheets/d/1h919I9stEwfwxwmf7e9kiYdx9dD7VtSPt1pZwskK4vc/edit#gid=0).
+* Link da [Landing Page](https://projetoarquitetura-dnc.netlify.app/).
+* Link da [Planilia](https://docs.google.com/spreadsheets/d/1h919I9stEwfwxwmf7e9kiYdx9dD7VtSPt1pZwskK4vc/edit#gid=0).
